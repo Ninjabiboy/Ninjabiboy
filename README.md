@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Computer Science student at University of Mindanao.<br>🤝 I’m a Quick learner with a proactive attitude towards acquiring new skills and technologies.<br>🌱 I'm currently learning more about Web Development, AI, Machine Learning, and Data Security.<br>💬 Ask me anything!<br>⚡ Fun fact, The largest tree in the world is a giant sequoia!
+🔭 I'm a Computer Science student at University of Mindanao.<br><br>🤝 I’m a Quick learner with a proactive attitude towards acquiring new skills and technologies.<br><br>🌱 I'm currently learning more about Web Development, AI, Machine Learning, and Data Security.<br><br>⚡ Fun fact, The largest tree in the world is a giant sequoia!<br><br>💬 Ask me anything!
 
 
 ## 🌐 Socials:
